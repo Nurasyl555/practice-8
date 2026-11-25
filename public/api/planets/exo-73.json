@@ -1,0 +1,14 @@
+{
+  "id": "exo-73",
+  "name": "K2-42 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1265.6,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 222,
+  "massEarths": 2.6,
+  "hostStar": "K2-42",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2017. It is classified as a terrestrial orbiting K2-42 at 1265.6 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-84",
+  "name": "Gliese-463 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1455.9,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2008,
+  "surfaceTempKelvin": 2175,
+  "massEarths": 98,
+  "hostStar": "Gliese-463",
+  "starType": "White Dwarf",
+  "description": "Discovered by the CHEOPS (ESA) in 2008. It is classified as a neptune-like orbiting Gliese-463 at 1455.9 light-years from Earth."
+}

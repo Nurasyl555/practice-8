@@ -1,0 +1,14 @@
+{
+  "id": "exo-41",
+  "name": "K2-31 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 712,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2005,
+  "surfaceTempKelvin": 260,
+  "massEarths": 0.8,
+  "hostStar": "K2-31",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2005. It is classified as a terrestrial orbiting K2-31 at 712 light-years from Earth."
+}

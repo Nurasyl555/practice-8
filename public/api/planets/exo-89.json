@@ -1,0 +1,14 @@
+{
+  "id": "exo-89",
+  "name": "K2-47 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1542.4,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2013,
+  "surfaceTempKelvin": 238,
+  "massEarths": 3.5,
+  "hostStar": "K2-47",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Kepler Space Telescope in 2013. It is classified as a terrestrial orbiting K2-47 at 1542.4 light-years from Earth."
+}

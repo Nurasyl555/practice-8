@@ -1,0 +1,14 @@
+{
+  "id": "exo-53",
+  "name": "HD-209475 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 919.6,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 272,
+  "massEarths": 2.6,
+  "hostStar": "HD-209475",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2017. It is classified as a terrestrial orbiting HD-209475 at 919.6 light-years from Earth."
+}

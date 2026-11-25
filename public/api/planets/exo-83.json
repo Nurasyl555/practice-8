@@ -1,0 +1,14 @@
+{
+  "id": "exo-83",
+  "name": "WASP-60 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1438.6,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2007,
+  "surfaceTempKelvin": 2150,
+  "massEarths": 97,
+  "hostStar": "WASP-60",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Hubble Space Telescope in 2007. It is classified as a gas giant orbiting WASP-60 at 1438.6 light-years from Earth."
+}

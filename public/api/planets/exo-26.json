@@ -1,0 +1,14 @@
+{
+  "id": "exo-26",
+  "name": "TOI-808 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 452.5,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2010,
+  "surfaceTempKelvin": 725,
+  "massEarths": 40,
+  "hostStar": "TOI-808",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2010. It is classified as a super-earth orbiting TOI-808 at 452.5 light-years from Earth."
+}

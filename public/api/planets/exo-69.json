@@ -1,0 +1,14 @@
+{
+  "id": "exo-69",
+  "name": "HD-209480 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1196.4,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2013,
+  "surfaceTempKelvin": 288,
+  "massEarths": 3.5,
+  "hostStar": "HD-209480",
+  "starType": "White Dwarf",
+  "description": "Discovered by the James Webb Space Telescope in 2013. It is classified as a terrestrial orbiting HD-209480 at 1196.4 light-years from Earth."
+}

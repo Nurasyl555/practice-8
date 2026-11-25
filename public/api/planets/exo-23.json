@@ -1,0 +1,14 @@
+{
+  "id": "exo-23",
+  "name": "Gaia-108 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 400.6,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2007,
+  "surfaceTempKelvin": 650,
+  "massEarths": 37,
+  "hostStar": "Gaia-108",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Gaia Observatory in 2007. It is classified as a gas giant orbiting Gaia-108 at 400.6 light-years from Earth."
+}

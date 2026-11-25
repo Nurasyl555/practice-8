@@ -1,0 +1,14 @@
+{
+  "id": "exo-88",
+  "name": "Kepler-49 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1525.1,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2012,
+  "surfaceTempKelvin": 2275,
+  "massEarths": 102,
+  "hostStar": "Kepler-49",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2012. It is classified as a neptune-like orbiting Kepler-49 at 1525.1 light-years from Earth."
+}

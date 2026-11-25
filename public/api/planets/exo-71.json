@@ -1,0 +1,14 @@
+{
+  "id": "exo-71",
+  "name": "Gaia-124 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1231,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2015,
+  "surfaceTempKelvin": 1850,
+  "massEarths": 85,
+  "hostStar": "Gaia-124",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Gaia Observatory in 2015. It is classified as a gas giant orbiting Gaia-124 at 1231 light-years from Earth."
+}

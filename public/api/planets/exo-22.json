@@ -1,0 +1,14 @@
+{
+  "id": "exo-22",
+  "name": "CoRoT-14 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 383.3,
+  "habitable": true,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2006,
+  "surfaceTempKelvin": 241,
+  "massEarths": 1.7,
+  "hostStar": "CoRoT-14",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2006. It is classified as a super-earth orbiting CoRoT-14 at 383.3 light-years from Earth."
+}

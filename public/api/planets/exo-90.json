@@ -1,0 +1,14 @@
+{
+  "id": "exo-90",
+  "name": "TOI-829 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1559.7,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2014,
+  "surfaceTempKelvin": 2325,
+  "massEarths": 104,
+  "hostStar": "TOI-829",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2014. It is classified as a super-earth orbiting TOI-829 at 1559.7 light-years from Earth."
+}

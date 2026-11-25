@@ -1,0 +1,14 @@
+{
+  "id": "exo-64",
+  "name": "Kepler-41 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1109.9,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2008,
+  "surfaceTempKelvin": 1675,
+  "massEarths": 78,
+  "hostStar": "Kepler-41",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Kepler Space Telescope in 2008. It is classified as a neptune-like orbiting Kepler-41 at 1109.9 light-years from Earth."
+}

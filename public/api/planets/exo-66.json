@@ -1,0 +1,14 @@
+{
+  "id": "exo-66",
+  "name": "TOI-821 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1144.5,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2010,
+  "surfaceTempKelvin": 1725,
+  "massEarths": 80,
+  "hostStar": "TOI-821",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2010. It is classified as a super-earth orbiting TOI-821 at 1144.5 light-years from Earth."
+}

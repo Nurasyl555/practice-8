@@ -1,0 +1,14 @@
+{
+  "id": "exo-79",
+  "name": "Gaia-127 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1369.4,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2023,
+  "surfaceTempKelvin": 2050,
+  "massEarths": 93,
+  "hostStar": "Gaia-127",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Gaia Observatory in 2023. It is classified as a gas giant orbiting Gaia-127 at 1369.4 light-years from Earth."
+}

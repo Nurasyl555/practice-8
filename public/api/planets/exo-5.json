@@ -1,0 +1,14 @@
+{
+  "id": "exo-5",
+  "name": "TRAPPIST-1f",
+  "type": "Terrestrial",
+  "distanceLightYears": 39.5,
+  "habitable": true,
+  "mission": "Spitzer Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 219,
+  "massEarths": 1.04,
+  "hostStar": "TRAPPIST-1f",
+  "starType": "Red Dwarf (M-type)",
+  "description": "A potentially ocean-covered planet in the habitable zone of TRAPPIST-1."
+}

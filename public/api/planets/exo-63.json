@@ -1,0 +1,14 @@
+{
+  "id": "exo-63",
+  "name": "Gaia-121 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1092.6,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2007,
+  "surfaceTempKelvin": 1650,
+  "massEarths": 77,
+  "hostStar": "Gaia-121",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Gaia Observatory in 2007. It is classified as a gas giant orbiting Gaia-121 at 1092.6 light-years from Earth."
+}

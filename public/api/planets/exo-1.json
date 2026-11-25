@@ -1,0 +1,14 @@
+{
+  "id": "exo-1",
+  "name": "Proxima Centauri b",
+  "type": "Terrestrial",
+  "distanceLightYears": 4.2,
+  "habitable": true,
+  "mission": "ESO High Accuracy Radial Velocity",
+  "discoveryYear": 2016,
+  "surfaceTempKelvin": 234,
+  "massEarths": 1.17,
+  "hostStar": "Proxima",
+  "starType": "Red Dwarf (M-type)",
+  "description": "The closest known exoplanet to our Solar System, located in the habitable zone of Proxima Centauri."
+}

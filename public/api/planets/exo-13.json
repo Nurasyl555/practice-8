@@ -1,0 +1,14 @@
+{
+  "id": "exo-13",
+  "name": "TOI-700 e",
+  "type": "Terrestrial",
+  "distanceLightYears": 101.4,
+  "habitable": true,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2023,
+  "surfaceTempKelvin": 273,
+  "massEarths": 0.95,
+  "hostStar": "TOI-700",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Second Earth-sized planet found in the optimistic habitable zone of the TOI-700 system."
+}

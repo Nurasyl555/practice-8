@@ -1,0 +1,14 @@
+{
+  "id": "exo-56",
+  "name": "Kepler-38 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 971.5,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2020,
+  "surfaceTempKelvin": 1475,
+  "massEarths": 70,
+  "hostStar": "Kepler-38",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2020. It is classified as a neptune-like orbiting Kepler-38 at 971.5 light-years from Earth."
+}

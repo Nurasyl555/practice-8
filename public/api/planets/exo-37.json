@@ -1,0 +1,14 @@
+{
+  "id": "exo-37",
+  "name": "HD-209470 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 642.8,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2021,
+  "surfaceTempKelvin": 256,
+  "massEarths": 1.7,
+  "hostStar": "HD-209470",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2021. It is classified as a terrestrial orbiting HD-209470 at 642.8 light-years from Earth."
+}

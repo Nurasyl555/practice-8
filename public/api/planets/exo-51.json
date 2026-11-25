@@ -1,0 +1,14 @@
+{
+  "id": "exo-51",
+  "name": "WASP-49 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 885,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2015,
+  "surfaceTempKelvin": 1350,
+  "massEarths": 65,
+  "hostStar": "WASP-49",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Hubble Space Telescope in 2015. It is classified as a gas giant orbiting WASP-49 at 885 light-years from Earth."
+}

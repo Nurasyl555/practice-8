@@ -1,0 +1,14 @@
+{
+  "id": "exo-25",
+  "name": "K2-26 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 435.2,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2009,
+  "surfaceTempKelvin": 244,
+  "massEarths": 4.4,
+  "hostStar": "K2-26",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2009. It is classified as a terrestrial orbiting K2-26 at 435.2 light-years from Earth."
+}

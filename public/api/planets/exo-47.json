@@ -1,0 +1,14 @@
+{
+  "id": "exo-47",
+  "name": "Gaia-116 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 815.8,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 1250,
+  "massEarths": 61,
+  "hostStar": "Gaia-116",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Gaia Observatory in 2011. It is classified as a gas giant orbiting Gaia-116 at 815.8 light-years from Earth."
+}

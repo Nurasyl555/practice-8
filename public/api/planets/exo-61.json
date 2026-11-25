@@ -1,0 +1,14 @@
+{
+  "id": "exo-61",
+  "name": "HD-209478 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1058,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2005,
+  "surfaceTempKelvin": 280,
+  "massEarths": 0.8,
+  "hostStar": "HD-209478",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2005. It is classified as a terrestrial orbiting HD-209478 at 1058 light-years from Earth."
+}

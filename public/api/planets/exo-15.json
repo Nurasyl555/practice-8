@@ -1,0 +1,14 @@
+{
+  "id": "exo-15",
+  "name": "LHS 1140 b",
+  "type": "Super-Earth",
+  "distanceLightYears": 48.8,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 230,
+  "massEarths": 5.6,
+  "hostStar": "LHS",
+  "starType": "Red Dwarf (M-type)",
+  "description": "A promising candidate for an ocean-covered water world with a nitrogen-rich atmosphere."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-39",
+  "name": "Gaia-113 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 677.4,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2023,
+  "surfaceTempKelvin": 1050,
+  "massEarths": 53,
+  "hostStar": "Gaia-113",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Gaia Observatory in 2023. It is classified as a gas giant orbiting Gaia-113 at 677.4 light-years from Earth."
+}

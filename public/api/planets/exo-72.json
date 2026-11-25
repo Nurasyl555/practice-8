@@ -1,0 +1,14 @@
+{
+  "id": "exo-72",
+  "name": "Kepler-43 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1248.3,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2016,
+  "surfaceTempKelvin": 1875,
+  "massEarths": 86,
+  "hostStar": "Kepler-43",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2016. It is classified as a neptune-like orbiting Kepler-43 at 1248.3 light-years from Earth."
+}

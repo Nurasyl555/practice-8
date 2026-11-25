@@ -1,0 +1,14 @@
+{
+  "id": "exo-21",
+  "name": "HD-209464 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 366,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2005,
+  "surfaceTempKelvin": 240,
+  "massEarths": 0.8,
+  "hostStar": "HD-209464",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2005. It is classified as a terrestrial orbiting HD-209464 at 366 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-54",
+  "name": "CoRoT-24 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 936.9,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2018,
+  "surfaceTempKelvin": 1425,
+  "massEarths": 68,
+  "hostStar": "CoRoT-24",
+  "starType": "White Dwarf",
+  "description": "Discovered by the CHEOPS (ESA) in 2018. It is classified as a super-earth orbiting CoRoT-24 at 936.9 light-years from Earth."
+}

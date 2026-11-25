@@ -1,0 +1,14 @@
+{
+  "id": "exo-10",
+  "name": "WASP-12b",
+  "type": "Gas Giant",
+  "distanceLightYears": 1410,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2008,
+  "surfaceTempKelvin": 2500,
+  "massEarths": 448,
+  "hostStar": "WASP-12b",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "An ultra-hot Jupiter being slowly torn apart and consumed by its host star."
+}

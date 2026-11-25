@@ -1,0 +1,14 @@
+{
+  "id": "exo-30",
+  "name": "CoRoT-16 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 521.7,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2014,
+  "surfaceTempKelvin": 825,
+  "massEarths": 44,
+  "hostStar": "CoRoT-16",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2014. It is classified as a super-earth orbiting CoRoT-16 at 521.7 light-years from Earth."
+}

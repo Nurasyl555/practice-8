@@ -1,0 +1,14 @@
+{
+  "id": "exo-9",
+  "name": "55 Cancri e",
+  "type": "Super-Earth",
+  "distanceLightYears": 41,
+  "habitable": false,
+  "mission": "Spitzer Space Telescope",
+  "discoveryYear": 2004,
+  "surfaceTempKelvin": 2200,
+  "massEarths": 8.63,
+  "hostStar": "55",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "A super-hot carbon-rich planet often nicknamed the 'Diamond Planet'."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-93",
+  "name": "HD-209488 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1611.6,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 242,
+  "massEarths": 2.6,
+  "hostStar": "HD-209488",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2017. It is classified as a terrestrial orbiting HD-209488 at 1611.6 light-years from Earth."
+}

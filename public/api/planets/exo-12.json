@@ -1,0 +1,14 @@
+{
+  "id": "exo-12",
+  "name": "TOI-700 d",
+  "type": "Terrestrial",
+  "distanceLightYears": 101.4,
+  "habitable": true,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2020,
+  "surfaceTempKelvin": 269,
+  "massEarths": 1.72,
+  "hostStar": "TOI-700",
+  "starType": "Red Dwarf (M-type)",
+  "description": "An Earth-sized habitable zone planet discovered by NASA's TESS mission."
+}

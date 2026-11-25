@@ -1,0 +1,14 @@
+{
+  "id": "exo-102",
+  "name": "CoRoT-40 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1767.3,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2006,
+  "surfaceTempKelvin": 2625,
+  "massEarths": 116,
+  "hostStar": "CoRoT-40",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2006. It is classified as a super-earth orbiting CoRoT-40 at 1767.3 light-years from Earth."
+}

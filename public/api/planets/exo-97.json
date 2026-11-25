@@ -1,0 +1,14 @@
+{
+  "id": "exo-97",
+  "name": "K2-50 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1680.8,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2021,
+  "surfaceTempKelvin": 246,
+  "massEarths": 1.7,
+  "hostStar": "K2-50",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2021. It is classified as a terrestrial orbiting K2-50 at 1680.8 light-years from Earth."
+}

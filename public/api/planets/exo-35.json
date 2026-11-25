@@ -1,0 +1,14 @@
+{
+  "id": "exo-35",
+  "name": "WASP-44 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 608.2,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2019,
+  "surfaceTempKelvin": 950,
+  "massEarths": 49,
+  "hostStar": "WASP-44",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the Hubble Space Telescope in 2019. It is classified as a gas giant orbiting WASP-44 at 608.2 light-years from Earth."
+}

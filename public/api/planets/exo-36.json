@@ -1,0 +1,14 @@
+{
+  "id": "exo-36",
+  "name": "Gliese-447 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 625.5,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2020,
+  "surfaceTempKelvin": 975,
+  "massEarths": 50,
+  "hostStar": "Gliese-447",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2020. It is classified as a neptune-like orbiting Gliese-447 at 625.5 light-years from Earth."
+}

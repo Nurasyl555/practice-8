@@ -1,0 +1,14 @@
+{
+  "id": "exo-50",
+  "name": "TOI-816 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 867.7,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2014,
+  "surfaceTempKelvin": 1325,
+  "massEarths": 64,
+  "hostStar": "TOI-816",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2014. It is classified as a super-earth orbiting TOI-816 at 867.7 light-years from Earth."
+}

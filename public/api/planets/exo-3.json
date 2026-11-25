@@ -1,0 +1,14 @@
+{
+  "id": "exo-3",
+  "name": "TRAPPIST-1e",
+  "type": "Terrestrial",
+  "distanceLightYears": 39.5,
+  "habitable": true,
+  "mission": "Spitzer Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 251,
+  "massEarths": 0.69,
+  "hostStar": "TRAPPIST-1e",
+  "starType": "Red Dwarf (M-type)",
+  "description": "One of seven Earth-sized worlds in the ultracool dwarf star system TRAPPIST-1."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-87",
+  "name": "Gaia-129 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1507.8,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 2250,
+  "massEarths": 101,
+  "hostStar": "Gaia-129",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Gaia Observatory in 2011. It is classified as a gas giant orbiting Gaia-129 at 1507.8 light-years from Earth."
+}

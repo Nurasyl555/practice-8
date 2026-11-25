@@ -1,0 +1,14 @@
+{
+  "id": "exo-18",
+  "name": "TOI-805 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 314.1,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2022,
+  "surfaceTempKelvin": 525,
+  "massEarths": 32,
+  "hostStar": "TOI-805",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2022. It is classified as a super-earth orbiting TOI-805 at 314.1 light-years from Earth."
+}

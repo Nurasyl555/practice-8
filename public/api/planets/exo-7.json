@@ -1,0 +1,14 @@
+{
+  "id": "exo-7",
+  "name": "Kepler-186f",
+  "type": "Terrestrial",
+  "distanceLightYears": 582,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2014,
+  "surfaceTempKelvin": 188,
+  "massEarths": 1.44,
+  "hostStar": "Kepler-186f",
+  "starType": "Red Dwarf (M-type)",
+  "description": "The first validated Earth-size planet to orbit a distant star in the habitable zone."
+}

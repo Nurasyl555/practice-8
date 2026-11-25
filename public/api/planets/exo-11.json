@@ -1,0 +1,14 @@
+{
+  "id": "exo-11",
+  "name": "HD 189733 b",
+  "type": "Gas Giant",
+  "distanceLightYears": 64.5,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2005,
+  "surfaceTempKelvin": 1200,
+  "massEarths": 362,
+  "hostStar": "HD",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Deep cobalt-blue world where it rains molten glass sideways in 7,000 km/h winds."
+}
