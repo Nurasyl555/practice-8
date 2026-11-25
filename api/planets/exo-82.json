@@ -1,0 +1,14 @@
+{
+  "id": "exo-82",
+  "name": "TOI-827 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1421.3,
+  "habitable": true,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2006,
+  "surfaceTempKelvin": 231,
+  "massEarths": 1.7,
+  "hostStar": "TOI-827",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2006. It is classified as a super-earth orbiting TOI-827 at 1421.3 light-years from Earth."
+}

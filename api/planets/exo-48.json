@@ -1,0 +1,14 @@
+{
+  "id": "exo-48",
+  "name": "Kepler-35 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 833.1,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2012,
+  "surfaceTempKelvin": 1275,
+  "massEarths": 62,
+  "hostStar": "Kepler-35",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2012. It is classified as a neptune-like orbiting Kepler-35 at 833.1 light-years from Earth."
+}

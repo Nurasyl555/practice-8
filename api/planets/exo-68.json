@@ -1,0 +1,14 @@
+{
+  "id": "exo-68",
+  "name": "Gliese-458 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1179.1,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2012,
+  "surfaceTempKelvin": 1775,
+  "massEarths": 82,
+  "hostStar": "Gliese-458",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2012. It is classified as a neptune-like orbiting Gliese-458 at 1179.1 light-years from Earth."
+}

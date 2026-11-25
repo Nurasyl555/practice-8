@@ -1,0 +1,14 @@
+{
+  "id": "exo-55",
+  "name": "Gaia-119 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 954.2,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2019,
+  "surfaceTempKelvin": 1450,
+  "massEarths": 69,
+  "hostStar": "Gaia-119",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the Gaia Observatory in 2019. It is classified as a gas giant orbiting Gaia-119 at 954.2 light-years from Earth."
+}

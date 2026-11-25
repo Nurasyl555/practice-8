@@ -1,0 +1,14 @@
+{
+  "id": "exo-27",
+  "name": "WASP-41 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 469.8,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 750,
+  "massEarths": 41,
+  "hostStar": "WASP-41",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Hubble Space Telescope in 2011. It is classified as a gas giant orbiting WASP-41 at 469.8 light-years from Earth."
+}

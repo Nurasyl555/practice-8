@@ -1,0 +1,14 @@
+{
+  "id": "exo-24",
+  "name": "Kepler-27 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 417.9,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2008,
+  "surfaceTempKelvin": 675,
+  "massEarths": 38,
+  "hostStar": "Kepler-27",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Kepler Space Telescope in 2008. It is classified as a neptune-like orbiting Kepler-27 at 417.9 light-years from Earth."
+}

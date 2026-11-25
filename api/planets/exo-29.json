@@ -1,0 +1,14 @@
+{
+  "id": "exo-29",
+  "name": "HD-209467 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 504.4,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2013,
+  "surfaceTempKelvin": 248,
+  "massEarths": 3.5,
+  "hostStar": "HD-209467",
+  "starType": "White Dwarf",
+  "description": "Discovered by the James Webb Space Telescope in 2013. It is classified as a terrestrial orbiting HD-209467 at 504.4 light-years from Earth."
+}

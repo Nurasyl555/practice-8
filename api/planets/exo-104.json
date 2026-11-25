@@ -1,0 +1,14 @@
+{
+  "id": "exo-104",
+  "name": "Kepler-54 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1801.9,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2008,
+  "surfaceTempKelvin": 2675,
+  "massEarths": 118,
+  "hostStar": "Kepler-54",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Kepler Space Telescope in 2008. It is classified as a neptune-like orbiting Kepler-54 at 1801.9 light-years from Earth."
+}

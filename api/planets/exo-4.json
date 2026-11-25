@@ -1,0 +1,14 @@
+{
+  "id": "exo-4",
+  "name": "TRAPPIST-1d",
+  "type": "Terrestrial",
+  "distanceLightYears": 39.5,
+  "habitable": true,
+  "mission": "Spitzer Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 288,
+  "massEarths": 0.38,
+  "hostStar": "TRAPPIST-1d",
+  "starType": "Red Dwarf (M-type)",
+  "description": "A rocky temperate planet potentially harboring liquid surface water."
+}

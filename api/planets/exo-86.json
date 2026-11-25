@@ -1,0 +1,14 @@
+{
+  "id": "exo-86",
+  "name": "CoRoT-35 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1490.5,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2010,
+  "surfaceTempKelvin": 2225,
+  "massEarths": 100,
+  "hostStar": "CoRoT-35",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2010. It is classified as a super-earth orbiting CoRoT-35 at 1490.5 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-34",
+  "name": "TOI-811 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 590.9,
+  "habitable": true,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2018,
+  "surfaceTempKelvin": 253,
+  "massEarths": 3.5,
+  "hostStar": "TOI-811",
+  "starType": "White Dwarf",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2018. It is classified as a super-earth orbiting TOI-811 at 590.9 light-years from Earth."
+}

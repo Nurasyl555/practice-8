@@ -1,0 +1,14 @@
+{
+  "id": "exo-103",
+  "name": "Gaia-135 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1784.6,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2007,
+  "surfaceTempKelvin": 2650,
+  "massEarths": 117,
+  "hostStar": "Gaia-135",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Gaia Observatory in 2007. It is classified as a gas giant orbiting Gaia-135 at 1784.6 light-years from Earth."
+}

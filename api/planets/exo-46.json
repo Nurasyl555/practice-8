@@ -1,0 +1,14 @@
+{
+  "id": "exo-46",
+  "name": "CoRoT-22 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 798.5,
+  "habitable": true,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2010,
+  "surfaceTempKelvin": 265,
+  "massEarths": 0.8,
+  "hostStar": "CoRoT-22",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2010. It is classified as a super-earth orbiting CoRoT-22 at 798.5 light-years from Earth."
+}

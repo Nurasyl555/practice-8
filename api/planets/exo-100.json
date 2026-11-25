@@ -1,0 +1,14 @@
+{
+  "id": "exo-100",
+  "name": "Gliese-469 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1732.7,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2024,
+  "surfaceTempKelvin": 2575,
+  "massEarths": 114,
+  "hostStar": "Gliese-469",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2024. It is classified as a neptune-like orbiting Gliese-469 at 1732.7 light-years from Earth."
+}

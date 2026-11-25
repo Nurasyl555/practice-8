@@ -1,0 +1,14 @@
+{
+  "id": "exo-58",
+  "name": "TOI-819 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1006.1,
+  "habitable": true,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2022,
+  "surfaceTempKelvin": 277,
+  "massEarths": 2.6,
+  "hostStar": "TOI-819",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2022. It is classified as a super-earth orbiting TOI-819 at 1006.1 light-years from Earth."
+}

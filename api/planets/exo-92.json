@@ -1,0 +1,14 @@
+{
+  "id": "exo-92",
+  "name": "Gliese-466 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1594.3,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2016,
+  "surfaceTempKelvin": 2375,
+  "massEarths": 106,
+  "hostStar": "Gliese-466",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2016. It is classified as a neptune-like orbiting Gliese-466 at 1594.3 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-85",
+  "name": "HD-209486 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1473.2,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2009,
+  "surfaceTempKelvin": 234,
+  "massEarths": 4.4,
+  "hostStar": "HD-209486",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2009. It is classified as a terrestrial orbiting HD-209486 at 1473.2 light-years from Earth."
+}

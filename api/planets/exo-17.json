@@ -1,0 +1,14 @@
+{
+  "id": "exo-17",
+  "name": "K2-23 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 296.8,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2021,
+  "surfaceTempKelvin": 236,
+  "massEarths": 1.7,
+  "hostStar": "K2-23",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2021. It is classified as a terrestrial orbiting K2-23 at 296.8 light-years from Earth."
+}

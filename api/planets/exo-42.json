@@ -1,0 +1,14 @@
+{
+  "id": "exo-42",
+  "name": "TOI-813 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 729.3,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2006,
+  "surfaceTempKelvin": 1125,
+  "massEarths": 56,
+  "hostStar": "TOI-813",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2006. It is classified as a super-earth orbiting TOI-813 at 729.3 light-years from Earth."
+}

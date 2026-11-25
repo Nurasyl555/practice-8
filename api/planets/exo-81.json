@@ -1,0 +1,14 @@
+{
+  "id": "exo-81",
+  "name": "K2-44 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1404,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2005,
+  "surfaceTempKelvin": 230,
+  "massEarths": 0.8,
+  "hostStar": "K2-44",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2005. It is classified as a terrestrial orbiting K2-44 at 1404 light-years from Earth."
+}

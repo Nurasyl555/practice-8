@@ -1,0 +1,14 @@
+{
+  "id": "exo-98",
+  "name": "TOI-832 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1698.1,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2022,
+  "surfaceTempKelvin": 2525,
+  "massEarths": 112,
+  "hostStar": "TOI-832",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2022. It is classified as a super-earth orbiting TOI-832 at 1698.1 light-years from Earth."
+}

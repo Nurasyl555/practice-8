@@ -1,0 +1,14 @@
+{
+  "id": "exo-74",
+  "name": "TOI-824 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1282.9,
+  "habitable": false,
+  "mission": "TESS (Transiting Exoplanet Survey Satellite)",
+  "discoveryYear": 2018,
+  "surfaceTempKelvin": 1925,
+  "massEarths": 88,
+  "hostStar": "TOI-824",
+  "starType": "White Dwarf",
+  "description": "Discovered by the TESS (Transiting Exoplanet Survey Satellite) in 2018. It is classified as a super-earth orbiting TOI-824 at 1282.9 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-94",
+  "name": "CoRoT-38 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1628.9,
+  "habitable": true,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2018,
+  "surfaceTempKelvin": 243,
+  "massEarths": 3.5,
+  "hostStar": "CoRoT-38",
+  "starType": "White Dwarf",
+  "description": "Discovered by the CHEOPS (ESA) in 2018. It is classified as a super-earth orbiting CoRoT-38 at 1628.9 light-years from Earth."
+}

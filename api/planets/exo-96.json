@@ -1,0 +1,14 @@
+{
+  "id": "exo-96",
+  "name": "Kepler-51 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1663.5,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2020,
+  "surfaceTempKelvin": 2475,
+  "massEarths": 110,
+  "hostStar": "Kepler-51",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2020. It is classified as a neptune-like orbiting Kepler-51 at 1663.5 light-years from Earth."
+}

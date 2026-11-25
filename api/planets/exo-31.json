@@ -1,0 +1,14 @@
+{
+  "id": "exo-31",
+  "name": "Gaia-111 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 539,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2015,
+  "surfaceTempKelvin": 850,
+  "massEarths": 45,
+  "hostStar": "Gaia-111",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the Gaia Observatory in 2015. It is classified as a gas giant orbiting Gaia-111 at 539 light-years from Earth."
+}

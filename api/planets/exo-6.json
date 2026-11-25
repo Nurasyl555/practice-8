@@ -1,0 +1,14 @@
+{
+  "id": "exo-6",
+  "name": "Kepler-22b",
+  "type": "Super-Earth",
+  "distanceLightYears": 635,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 262,
+  "massEarths": 9.1,
+  "hostStar": "Kepler-22b",
+  "starType": "Red Dwarf (M-type)",
+  "description": "The first transiting planet discovered by NASA's Kepler mission to orbit in the habitable zone."
+}

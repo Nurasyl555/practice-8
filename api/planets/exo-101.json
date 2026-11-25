@@ -1,0 +1,14 @@
+{
+  "id": "exo-101",
+  "name": "HD-209491 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 1750,
+  "habitable": true,
+  "mission": "James Webb Space Telescope",
+  "discoveryYear": 2005,
+  "surfaceTempKelvin": 250,
+  "massEarths": 0.8,
+  "hostStar": "HD-209491",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the James Webb Space Telescope in 2005. It is classified as a terrestrial orbiting HD-209491 at 1750 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-49",
+  "name": "K2-34 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 850.4,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2013,
+  "surfaceTempKelvin": 268,
+  "massEarths": 3.5,
+  "hostStar": "K2-34",
+  "starType": "White Dwarf",
+  "description": "Discovered by the Kepler Space Telescope in 2013. It is classified as a terrestrial orbiting K2-34 at 850.4 light-years from Earth."
+}

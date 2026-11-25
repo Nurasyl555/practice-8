@@ -1,0 +1,14 @@
+{
+  "id": "exo-80",
+  "name": "Kepler-46 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1386.7,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2024,
+  "surfaceTempKelvin": 2075,
+  "massEarths": 94,
+  "hostStar": "Kepler-46",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2024. It is classified as a neptune-like orbiting Kepler-46 at 1386.7 light-years from Earth."
+}

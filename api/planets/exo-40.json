@@ -1,0 +1,14 @@
+{
+  "id": "exo-40",
+  "name": "Kepler-33 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 694.7,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2024,
+  "surfaceTempKelvin": 1075,
+  "massEarths": 54,
+  "hostStar": "Kepler-33",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2024. It is classified as a neptune-like orbiting Kepler-33 at 694.7 light-years from Earth."
+}

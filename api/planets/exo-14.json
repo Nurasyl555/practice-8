@@ -1,0 +1,14 @@
+{
+  "id": "exo-14",
+  "name": "Gliese 667 Cc",
+  "type": "Super-Earth",
+  "distanceLightYears": 23.6,
+  "habitable": true,
+  "mission": "ESO High Accuracy Radial Velocity",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 277,
+  "massEarths": 3.8,
+  "hostStar": "Gliese",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Orbits a red dwarf star in a triple-star stellar system in Scorpius."
+}

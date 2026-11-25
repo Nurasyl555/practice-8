@@ -1,0 +1,14 @@
+{
+  "id": "exo-70",
+  "name": "CoRoT-30 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1213.7,
+  "habitable": true,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2014,
+  "surfaceTempKelvin": 289,
+  "massEarths": 4.4,
+  "hostStar": "CoRoT-30",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2014. It is classified as a super-earth orbiting CoRoT-30 at 1213.7 light-years from Earth."
+}

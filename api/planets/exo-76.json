@@ -1,0 +1,14 @@
+{
+  "id": "exo-76",
+  "name": "Gliese-461 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 1317.5,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2020,
+  "surfaceTempKelvin": 1975,
+  "massEarths": 90,
+  "hostStar": "Gliese-461",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2020. It is classified as a neptune-like orbiting Gliese-461 at 1317.5 light-years from Earth."
+}

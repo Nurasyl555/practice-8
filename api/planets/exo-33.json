@@ -1,0 +1,14 @@
+{
+  "id": "exo-33",
+  "name": "K2-28 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 573.6,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2017,
+  "surfaceTempKelvin": 252,
+  "massEarths": 2.6,
+  "hostStar": "K2-28",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2017. It is classified as a terrestrial orbiting K2-28 at 573.6 light-years from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "exo-44",
+  "name": "Gliese-450 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 763.9,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2008,
+  "surfaceTempKelvin": 1175,
+  "massEarths": 58,
+  "hostStar": "Gliese-450",
+  "starType": "White Dwarf",
+  "description": "Discovered by the CHEOPS (ESA) in 2008. It is classified as a neptune-like orbiting Gliese-450 at 763.9 light-years from Earth."
+}

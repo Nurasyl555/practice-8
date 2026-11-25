@@ -1,0 +1,14 @@
+{
+  "id": "exo-52",
+  "name": "Gliese-453 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 902.3,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2016,
+  "surfaceTempKelvin": 1375,
+  "massEarths": 66,
+  "hostStar": "Gliese-453",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2016. It is classified as a neptune-like orbiting Gliese-453 at 902.3 light-years from Earth."
+}

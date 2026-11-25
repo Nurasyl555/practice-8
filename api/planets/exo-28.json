@@ -1,0 +1,14 @@
+{
+  "id": "exo-28",
+  "name": "Gliese-445 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 487.1,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2012,
+  "surfaceTempKelvin": 775,
+  "massEarths": 42,
+  "hostStar": "Gliese-445",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2012. It is classified as a neptune-like orbiting Gliese-445 at 487.1 light-years from Earth."
+}

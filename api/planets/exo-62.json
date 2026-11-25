@@ -1,0 +1,14 @@
+{
+  "id": "exo-62",
+  "name": "CoRoT-27 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 1075.3,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2006,
+  "surfaceTempKelvin": 1625,
+  "massEarths": 76,
+  "hostStar": "CoRoT-27",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2006. It is classified as a super-earth orbiting CoRoT-27 at 1075.3 light-years from Earth."
+}

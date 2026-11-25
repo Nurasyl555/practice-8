@@ -1,0 +1,14 @@
+{
+  "id": "exo-2",
+  "name": "Kepler-452b",
+  "type": "Super-Earth",
+  "distanceLightYears": 1402,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2015,
+  "surfaceTempKelvin": 265,
+  "massEarths": 5,
+  "hostStar": "Kepler-452b",
+  "starType": "Red Dwarf (M-type)",
+  "description": "Often referred to as 'Earth's Cousin', orbiting a sun-like star in the habitable zone."
+}

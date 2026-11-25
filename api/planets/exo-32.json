@@ -1,0 +1,14 @@
+{
+  "id": "exo-32",
+  "name": "Kepler-30 e",
+  "type": "Neptune-like",
+  "distanceLightYears": 556.3,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2016,
+  "surfaceTempKelvin": 875,
+  "massEarths": 46,
+  "hostStar": "Kepler-30",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2016. It is classified as a neptune-like orbiting Kepler-30 at 556.3 light-years from Earth."
+}

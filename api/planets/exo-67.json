@@ -1,0 +1,14 @@
+{
+  "id": "exo-67",
+  "name": "WASP-55 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1161.8,
+  "habitable": false,
+  "mission": "Hubble Space Telescope",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 1750,
+  "massEarths": 81,
+  "hostStar": "WASP-55",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Hubble Space Telescope in 2011. It is classified as a gas giant orbiting WASP-55 at 1161.8 light-years from Earth."
+}

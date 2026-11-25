@@ -1,0 +1,14 @@
+{
+  "id": "exo-8",
+  "name": "Kepler-16b",
+  "type": "Gas Giant",
+  "distanceLightYears": 245,
+  "habitable": false,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2011,
+  "surfaceTempKelvin": 190,
+  "massEarths": 105,
+  "hostStar": "Kepler-16b",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "A real-life Tatooine orbiting a pair of binary stars."
+}

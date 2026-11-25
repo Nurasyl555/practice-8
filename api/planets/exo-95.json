@@ -1,0 +1,14 @@
+{
+  "id": "exo-95",
+  "name": "Gaia-132 d",
+  "type": "Gas Giant",
+  "distanceLightYears": 1646.2,
+  "habitable": false,
+  "mission": "Gaia Observatory",
+  "discoveryYear": 2019,
+  "surfaceTempKelvin": 2450,
+  "massEarths": 109,
+  "hostStar": "Gaia-132",
+  "starType": "Blue Giant (A-type)",
+  "description": "Discovered by the Gaia Observatory in 2019. It is classified as a gas giant orbiting Gaia-132 at 1646.2 light-years from Earth."
+}

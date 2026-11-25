@@ -1,0 +1,14 @@
+{
+  "id": "exo-57",
+  "name": "K2-36 b",
+  "type": "Terrestrial",
+  "distanceLightYears": 988.8,
+  "habitable": true,
+  "mission": "Kepler Space Telescope",
+  "discoveryYear": 2021,
+  "surfaceTempKelvin": 276,
+  "massEarths": 1.7,
+  "hostStar": "K2-36",
+  "starType": "Yellow Dwarf (G-type)",
+  "description": "Discovered by the Kepler Space Telescope in 2021. It is classified as a terrestrial orbiting K2-36 at 988.8 light-years from Earth."
+}

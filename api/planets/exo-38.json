@@ -1,0 +1,14 @@
+{
+  "id": "exo-38",
+  "name": "CoRoT-19 c",
+  "type": "Super-Earth",
+  "distanceLightYears": 660.1,
+  "habitable": false,
+  "mission": "CHEOPS (ESA)",
+  "discoveryYear": 2022,
+  "surfaceTempKelvin": 1025,
+  "massEarths": 52,
+  "hostStar": "CoRoT-19",
+  "starType": "Orange Dwarf (K-type)",
+  "description": "Discovered by the CHEOPS (ESA) in 2022. It is classified as a super-earth orbiting CoRoT-19 at 660.1 light-years from Earth."
+}
